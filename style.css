@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -1039,4 +1039,12 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+#citation{
+    font-size: 25px;
+}
+
+#author{
+    font-size: 20px;
 }
